@@ -1,24 +1,13 @@
-# README
+git clone https://github.com/hamza350/RobotToy.git
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+cd robot
 
-Things you may want to cover:
+ruby test.rb
 
-* Ruby version
+PLACE
+ 
+MOVE
 
-* System dependencies
+RIGHT
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+REPORT
